@@ -24,35 +24,36 @@ Dentro del código se implementó:
 Uso de librerías:
 
 //Navigation
-implementation 'androidx.navigation:navigation-fragment-ktx:2.6.0'
-implementation 'androidx.navigation:navigation-ui-ktx:2.6.0'
+- implementation 'androidx.navigation:navigation-fragment-ktx:2.6.0'
+- implementation 'androidx.navigation:navigation-ui-ktx:2.6.0'
 
 //Compose
-    implementation "androidx.activity:activity-compose:1.7.0"
-    implementation "androidx.compose.ui:ui:1.5.0-alpha01"
-    implementation "androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1"
-    implementation "androidx.compose.material:material:1.5.0-alpha01"
-    implementation "androidx.compose.ui:ui-tooling:1.5.0-alpha01"
-    implementation "androidx.compose.ui:ui-tooling-preview:1.5.0-alpha01"
-    implementation "androidx.compose.animation:animation:1.5.0-alpha01"
-    implementation "io.coil-kt:coil-compose:1.4.0"
+- implementation "androidx.activity:activity-compose:1.7.0"
+- implementation "androidx.compose.ui:ui:1.5.0-alpha01"
+- implementation "androidx.lifecycle:lifecycle-viewmodel-compose:2.6.1"
+- implementation "androidx.compose.material:material:1.5.0-alpha01"
+- implementation "androidx.compose.ui:ui-tooling:1.5.0-alpha01"
+- implementation "androidx.compose.ui:ui-tooling-preview:1.5.0-alpha01"
+- implementation "androidx.compose.animation:animation:1.5.0-alpha01"
+- implementation "io.coil-kt:coil-compose:1.4.0"
 
 //Hilt
-    implementation("com.google.dagger:hilt-android:2.44")
-    kapt("com.google.dagger:hilt-android-compiler:2.44")
+- implementation("com.google.dagger:hilt-android:2.44")
+- kapt("com.google.dagger:hilt-android-compiler:2.44")
 
 //Retrofit
-    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
-    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+- implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+- implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
 
 //Glide
-    implementation 'com.github.bumptech.glide:glide:4.15.0'
-    annotationProcessor 'com.github.bumptech.glide:compiler:4.15.0'
+- implementation 'com.github.bumptech.glide:glide:4.15.0'
+- annotationProcessor 'com.github.bumptech.glide:compiler:4.15.0'
 
 //Custom Tab
-    implementation 'androidx.browser:browser:1.5.0'
+- implementation 'androidx.browser:browser:1.5.0'
 
 Capturas Télefono:
+
 ![Telefono1](https://github.com/FabianSC93/TV-Maze/assets/87196367/cdcaddf3-c04f-43e3-a0bb-5e0d80c1dd39)
 ![Telefono 4](https://github.com/FabianSC93/TV-Maze/assets/87196367/41043c6d-7dfd-4b24-92d4-60a7475ced2a)
 ![Telefono 5](https://github.com/FabianSC93/TV-Maze/assets/87196367/cf86b0c1-079c-43e4-a18f-354984de9e34)
