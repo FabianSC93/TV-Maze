@@ -54,11 +54,11 @@ Uso de librerías:
 
 Capturas Télefono:
 
-![Telefono1](https://github.com/FabianSC93/TV-Maze/assets/87196367/cdcaddf3-c04f-43e3-a0bb-5e0d80c1dd39)
-![Telefono 4](https://github.com/FabianSC93/TV-Maze/assets/87196367/41043c6d-7dfd-4b24-92d4-60a7475ced2a)
-![Telefono 5](https://github.com/FabianSC93/TV-Maze/assets/87196367/cf86b0c1-079c-43e4-a18f-354984de9e34)
-![Telefono2](https://github.com/FabianSC93/TV-Maze/assets/87196367/e65256f0-25fa-4602-b7fc-00b42915d517)
-![Telefono3](https://github.com/FabianSC93/TV-Maze/assets/87196367/616b6f5b-4dbc-4795-9bd7-53d447b3ad67)
+![Telefono1](https://github.com/FabianSC93/TV-Maze/assets/87196367/a7505232-21c2-4ae0-95ec-9d1a5b6e7a2c)
+![Telefono2](https://github.com/FabianSC93/TV-Maze/assets/87196367/a65ba2b2-db60-4564-baf7-e30613b25e36)
+![Telefono3](https://github.com/FabianSC93/TV-Maze/assets/87196367/9430df0d-d93c-485b-92ce-9b9240d9528b)
+![Telefono 4](https://github.com/FabianSC93/TV-Maze/assets/87196367/1e839b50-057c-4a04-8de1-72ebb6928972)
+![Telefono 5](https://github.com/FabianSC93/TV-Maze/assets/87196367/05273d7e-8239-4d13-9161-46ffd42509d5)
 
 Capturas Tablet:
 
