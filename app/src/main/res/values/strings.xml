@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TV Maze</string>
+    <string name="label_search">Buscar</string>
+    <string name="txt_button_site">Visitar Sitio</string>
+    <string name="txt_button_episodes">Episodios</string>
+    <string name="txt_rating">Rating: </string>
+    <string name="txt_sinopsis">Sinópsis:</string>
+    <string name="txt_generos">Géneros: </string>
+    <string name="txt_time">Horario: </string>
+    <string name="txt_details">Detalles</string>
+    <string name="txt_cast">Talentos:</string>
+    <string name="txt_message_site">Sitio no disponible</string>
+    <string name="txt_message_no_internet">Sin conexión a Internet</string>
+    <string name="txt_message_empty_result">Sin resultados</string>
+    <string name="txt_label_episodes">Episodios</string>
+    <string name="txt_label_temporada">Temporada %s</string>
+    <string name="txt_label_episode"> %s: %s</string>
+
+
+</resources>
