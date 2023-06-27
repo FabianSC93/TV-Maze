@@ -2,11 +2,11 @@
 
 Esta aplicación muestra diferentes programas de televisión obtenidos de http://www.tvmaze.com/api#embedding, utilizando las siguientes API:
 
-http://api.tvmaze.com/schedule?country=US&date=<today>   ---> PROPORCIONA LOS PROGRAMAS DE TV DEL DÍA DE HOY
-http://api.tvmaze.com/search/shows?q=<query>   -----> PROPORCIONA UNA LISTA DE PROGRAMAS DE ACUERDO A UNA BÚSQUEDA
-http://api.tvmaze.com/shows/<id>    -----> PROPORCIONA EL DETALLE DE ALGÚN PROGRAMA DE ACUERDO A SU ID
-http://api.tvmaze.com/shows/<id>/cast    -----> PROPORCIONA LOS PARTICIPANTES DEL PROGRAMA
-https://api.tvmaze.com/shows/<id>/episodes    -----> PROPORCIONA LOS EPISODIOS DEL PROGRAMA
+- http://api.tvmaze.com/schedule?country=US&date=<today>   ---> PROPORCIONA LOS PROGRAMAS DE TV DEL DÍA DE HOY
+- http://api.tvmaze.com/search/shows?q=<query>   -----> PROPORCIONA UNA LISTA DE PROGRAMAS DE ACUERDO A UNA BÚSQUEDA
+- http://api.tvmaze.com/shows/<id>    -----> PROPORCIONA EL DETALLE DE ALGÚN PROGRAMA DE ACUERDO A SU ID
+- http://api.tvmaze.com/shows/<id>/cast    -----> PROPORCIONA LOS PARTICIPANTES DEL PROGRAMA
+- https://api.tvmaze.com/shows/<id>/episodes    -----> PROPORCIONA LOS EPISODIOS DEL PROGRAMA
 
 Dentro del código se implementó:
 
@@ -23,17 +23,9 @@ Dentro del código se implementó:
 
 Uso de librerías:
 
-implementation 'androidx.core:core-ktx:1.10.1'
-implementation 'androidx.appcompat:appcompat:1.6.1'
-implementation 'com.google.android.material:material:1.9.0'
-implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
-testImplementation 'junit:junit:4.13.2'
-androidTestImplementation 'androidx.test.ext:junit:1.1.5'
-androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
-
 //Navigation
-    implementation 'androidx.navigation:navigation-fragment-ktx:2.6.0'
-    implementation 'androidx.navigation:navigation-ui-ktx:2.6.0'
+implementation 'androidx.navigation:navigation-fragment-ktx:2.6.0'
+implementation 'androidx.navigation:navigation-ui-ktx:2.6.0'
 
 //Compose
     implementation "androidx.activity:activity-compose:1.7.0"
