@@ -61,6 +61,7 @@ Capturas Télefono:
 ![Telefono3](https://github.com/FabianSC93/TV-Maze/assets/87196367/616b6f5b-4dbc-4795-9bd7-53d447b3ad67)
 
 Capturas Tablet:
+
 ![Tablet1](https://github.com/FabianSC93/TV-Maze/assets/87196367/60959e14-0747-4d6c-8bb0-06edf23ee881)
 ![Tablet2](https://github.com/FabianSC93/TV-Maze/assets/87196367/b3083253-18df-4aa2-9c40-bb67c982afcb)
 ![Tablet3](https://github.com/FabianSC93/TV-Maze/assets/87196367/708ee07a-7677-40f6-aaeb-ed54688f27c8)
